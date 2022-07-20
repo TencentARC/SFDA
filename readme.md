@@ -5,7 +5,7 @@ This is the PyTorch implementation of the paper **Not All Models Are Equal: Pred
 
 ## Self-challenging Fisher Discriminative Analysis (SFDA)
 We design a novel model selection method, termed Self-challenging Fisher Discriminative Analysis (SFDA), which efficient, effective, and robust when measuring the transferability of pre-trained models. Compared with the state-of-the-art method NLEEP, SFDA demonstrates an average of 62.3% gain while bringing 22.5x speedup in wall-clock time.
-<div align=center><img src="SFDA.jpg" width="1080" height="220"></div>
+<div align=center><img src="SFDA.jpg" width="1080" height="200"></div>
 
 **Comparisons of weighted Kendall's tau** on 11 downstream classification datasets when selecting 11 pretrained supervised models.
 
